@@ -1,0 +1,120 @@
+
+.content {
+    color: white
+    max-width: 800px;
+    margin: auto;
+    font-size: 16px;
+    font-family: 'Roboto Mono', monospace;
+    text-align: center;
+}
+nav {
+    display: flex; 
+    justify-content: space-evenly;
+}
+content header nav a {
+    list-style-type: none;
+    margin-top: 25px;
+    margin-left: 200px;
+    padding: 10px 10px;
+    display: inline-block;
+    text-decoration: none;
+    text-align: center;
+    border-radius: 20px;
+    font-size: 26px;
+    font-weight: 400;
+    width: 180px;
+    color: white;
+}
+
+.visit {
+    background: #FF764E;
+}
+
+.about { 
+background: #5ED3EB;
+}
+
+.involved {
+  background: #FFCD69;
+}
+
+
+
+h1{
+    font-family: 'Chelsea Market', cursive;
+    font-size: 68px;
+    margin-top: 90px;
+    margin-right: 170px;
+    text-align: right;
+}
+p{
+    font-family: 'Roboto Mono', monospace;
+}
+header nav button{
+    margin: 20px;
+}
+.header-block {
+    display: flex;
+    padding: 25px;
+}
+.header-text{
+    padding: 20px;
+    text-align: center;
+}
+.headerimg img{
+    display: inline-block;
+    height: 200px;
+    width: 210px;
+    border-radius: 100px;
+
+}
+
+
+
+
+.main p{
+    background-color:#DDB9A3;
+    margin-top:5%;
+    font-size:2rem;
+
+}
+.campfire img{
+    margin-top:2%;
+    margin-left:45%;
+    width:10%;
+    text-align:center;
+}
+
+.camptext {
+    margin-top:2%;
+    margin-bottom:5%;
+    text-align:center;
+    width:30%;
+    margin-left:35%
+
+}
+.bold{
+    font-weight:bold;
+}
+
+.motorhome img{
+    margin-left:45%;
+    width:10%;
+}
+
+.motorhome-text p{
+    text-align:center;
+    width:30%;
+    margin-left:35%;
+}
+
+.bottom-image img{
+    margin-top:5%;
+    width: 100%;
+
+
+}
+
+footer {
+background-color:#F9E7DC;
+} 
