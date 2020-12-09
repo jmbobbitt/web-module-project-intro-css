@@ -71,7 +71,7 @@ body {
     margin-top: 60px;
   }
   .photo-clip {
-    clip-path: circle (160px at center);
+    clip-path: circle(160px);
   }
   section blockquote {
     font-size: 28px;
